@@ -1,4 +1,4 @@
-Reference guide (Google Slides): [https://docs.google.com/presentation/d/1AyRQdlTJKw2xe2ctUmABSPQuj5Co46_X8sxYi3w5wYA/edit?usp=sharing](https://docs.google.com/presentation/d/1AyRQdlTJKw2xe2ctUmABSPQuj5Co46_X8sxYi3w5wYA/edit?usp=sharing)
+Reference guide (Google Slides): [4e Creating a portfolio in Github Pages (HTML & CSS)](https://docs.google.com/presentation/d/1DLZAS_TuxWck0GNT9S23DewnqKy5jY3LyzP-Hpt8pwo/edit)
 
 # Your task
 

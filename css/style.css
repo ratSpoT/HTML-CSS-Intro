@@ -1,28 +1,32 @@
-h1 {
-    font-size: 72px;  
+body{
+    background: #5C7C89;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #5C7C89;
+    width: 100%;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.navbar a{
+    font-size: 18px;
+    color: yellow;
+    margin-left: 25px;
 }
 
 h2 {
-    color: #00ff00;
+    color: #123456;
+    font-size: 40px;
 }
 
-h4.job-title {
+p{
+    font-size: 18px;
 }
 
-h2#menu {
-    font-weight: bold;
-    font-size: 14px;
-    color: purple;
+.NYJCimage{
+    background: black;
 }
-
-a {
-    color: purple;
-}
-
-h2#job {
-    color: blue;
-}
-
-/* .navlink {
-    color: red;
-} */
